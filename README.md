@@ -1,10 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Dan! 👋
 
-- 🧍‍♂️ - I'm Dan!
-- 👔 - I Work as a M365 Consultant & Dev
-- ☁️ - I ♥️ all things M365 and Microsoft Cloud
-- 🧑‍💻 - SPFx enthusiast 🙌
+---
 
+👔 - I Work as a M365 Consultant & Dev
+
+☁️ - I ♥️ all things M365 and Microsoft Cloud
+
+🧑‍💻 - SPFx enthusiast 🙌
+
+---
 
 🌍 Find me over at [dan-toft.dk](https://dan-toft.dk/)
 
