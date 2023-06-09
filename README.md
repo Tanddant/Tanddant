@@ -10,7 +10,7 @@
 
 ---
 
-🌍 Find me over at [dan-toft.dk](https://dan-toft.dk/)
+🌍 Find me over at [Dan-Toft.dk](https://dan-toft.dk/)
 
 🐦 I'm mostly active over on [Twitter](https://twitter.com/Tanddant)
 
