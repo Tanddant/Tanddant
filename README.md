@@ -2,7 +2,7 @@
 
 ---
 
-👔 - I Work as a M365 Consultant & Dev
+👔 - I work as a M365 Consultant & Dev
 
 ☁️ - I ♥️ all things M365 and Microsoft Cloud
 
