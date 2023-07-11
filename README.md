@@ -10,6 +10,8 @@
 
 ---
 
+📢 - [Slides from public speaking](https://github.com/Tanddant/Slides)
+
 🌍 Find me over at [Dan-Toft.dk](https://dan-toft.dk/)
 
 🐦 I'm mostly active over on [Twitter](https://twitter.com/Tanddant)
