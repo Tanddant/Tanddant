@@ -14,7 +14,7 @@
 
 🌍 Find me over at [Dan-Toft.dk](https://dan-toft.dk/)
 
-🐦 I'm mostly active over on [Twitter](https://twitter.com/Tanddant)
+🦋 I'm mostly active over on [Bluesky](https://bsky.app/profile/dan-toft.dk)
 
 <!--
 **Tanddant/Tanddant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
